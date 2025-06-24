@@ -161,7 +161,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Happy Birthday Shelyna Nur Fitriani", " ", "Aku tahu semua cita-cita dan impianmu. Karena itulah, semuanya menjadi doaku untukmu—yang akan selalu aku bantu.", " ", "Wish all Shey the best", "By your Ajjapool"],
+  strings: ["Happy Birthday Shelyna Nur Fitriani yang ke-20", " ", "Aku tahu semua cita-cita dan impianmu. Karena itulah, semuanya menjadi doaku untukmu—yang akan selalu aku bantu.", " ", "Wish all Shey the best", "By your Ajjapool"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
